@@ -1,2 +1,2 @@
 # manish
-This is my fiorst repository
+This is my first git repository
